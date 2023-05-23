@@ -1,11 +1,12 @@
-# Capstone-II
-In this task, you will be creating a program for a small business that can
-help it to manage tasks assigned to each member of the team. Copy the
-template program provided, Task19template.py, and rename it
-task_manager.py in this folder. This template has been provided to make
-this Task a little easier for you. Your job is to open and then modify the
-template to achieve the rest of the compulsory Task set out below.
-Remember to save your work as you go along.
+# Table of content
+
+● Introduction
+
+● General Information
+
+● Technologies
+
+# Introduction
 
 ●This program will work with two text ﬁles, user.txt and tasks.txt. Open
 each of the ﬁles that accompany this project and take note of the
@@ -156,3 +157,13 @@ the reports generated are read f rom task_overview.txt and
 user_overview.txt and displayed on the screen in a user-f riendly manner.
 If these text ﬁles don’t exist (because the user hasn’t selected to generate
 them yet), ﬁrst call the code to generate the text ﬁles.
+
+# General Information
+
+We will be uploading  some information of the program into txt files.
+
+# Technologies
+
+● Python
+
+● Visual studio code
